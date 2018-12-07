@@ -1,0 +1,15 @@
+.about_table #right_td {
+	width:550px;
+	height:40px;
+	text-align:left;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:27px;
+}
+
+.about_table #left_td {
+	width:430px;
+	height:40px;
+	text-align:right;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:17px;
+}
